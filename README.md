@@ -1,6 +1,8 @@
 # CICD_Project
 This is a CICD project for a Java application using Maven, SonarQube, Argo CD, Helm and Kubernetes.
 
+![Project Diagram](../img/project_diag.png)
+
 ### Project Summary
 1. **Git Repository & Pull Requests:**
    - The Java application source code is hosted in a Git repository
